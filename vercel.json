@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/:path*.gif",
+      "source": "/.gif",
       "destination": "https://flumppat.spirestudios.online/flump pat pat.gif",
       "permanent": false
     }
