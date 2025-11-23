@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/.gif",
       "destination": "https://flumppat.spirestudios.online/flump pat pat.gif"
