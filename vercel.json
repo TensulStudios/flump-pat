@@ -2,8 +2,7 @@
   "redirects": [
     {
       "source": "/.gif",
-      "destination": "https://flumppat.spirestudios.online/flump pat pat.gif",
-      "permanent": false
+      "destination": "https://flumppat.spirestudios.online/flump pat pat.gif"
     }
   ]
 }
